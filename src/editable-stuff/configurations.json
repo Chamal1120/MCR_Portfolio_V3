@@ -1,0 +1,54 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#FF8C00, #00A8E8, #00C853, #FF3366",
+  "FirstName": "Chamal",
+  "MiddleName": "",
+  "LastName": "Randika",
+  "devDesc": "| Programmer | Web Developer | Graphics Designer | Visual Storyteller ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/chamal1120",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/Chamal.Randika.MCR/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/chamal_randika_/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/chamal-randika/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://twitter.com/chamal_randika/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "chamal_randika_",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "A programmer who enjoy giving life to new project ideas.",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "chamal1120",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 2,
+  "showNavigationbar": true,
+  "showBlog": false
+}
