@@ -43,12 +43,12 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "chamal_randika_",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "A programmer who enjoy giving life to new project ideas.",
+  "aboutDescription": "I am a coding enthusiast with experience in HTML, CSS, JavaScript, React and Node.\n              I talk about #newgentech, #developercommunity and #visualstorytelling. On top of that I have years of graphic\n              designing skills which I combine with my coding skills to deliver visually pleasing outputs.\n              In my spare time, I enjoy giving life to new project ideas and supporting and nourishing\n              the next generation with up to date IT knowledge. With a keen eye for detail and a passion for coding,\n              I strive to innovate while inspiring others around me .",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "chamal1120",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 2,
+  "projectsLength": 4,
   "showNavigationbar": true,
   "showBlog": false
 }
