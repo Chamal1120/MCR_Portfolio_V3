@@ -1,6 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
+  "homepage": "https://Chamal1120.github.io/MCR_Portfolio_V3",
   "version": "1.0.0",
   "private": true,
   "author": {
@@ -12,7 +13,6 @@
     "@popperjs/core": "^2.1.1",
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
-    "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -46,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
