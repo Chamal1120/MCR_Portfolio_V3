@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MCR_Portfolio_V3/static/css/main.5f05969b.chunk.css",
+    "main.js": "/MCR_Portfolio_V3/static/js/main.f6003589.chunk.js",
+    "main.js.map": "/MCR_Portfolio_V3/static/js/main.f6003589.chunk.js.map",
+    "runtime-main.js": "/MCR_Portfolio_V3/static/js/runtime-main.2359d29b.js",
+    "runtime-main.js.map": "/MCR_Portfolio_V3/static/js/runtime-main.2359d29b.js.map",
+    "static/css/2.de424728.chunk.css": "/MCR_Portfolio_V3/static/css/2.de424728.chunk.css",
+    "static/js/2.8fa335fd.chunk.js": "/MCR_Portfolio_V3/static/js/2.8fa335fd.chunk.js",
+    "static/js/2.8fa335fd.chunk.js.map": "/MCR_Portfolio_V3/static/js/2.8fa335fd.chunk.js.map",
+    "index.html": "/MCR_Portfolio_V3/index.html",
+    "precache-manifest.ab37bbbc28420b9973c5f725e9068f02.js": "/MCR_Portfolio_V3/precache-manifest.ab37bbbc28420b9973c5f725e9068f02.js",
+    "service-worker.js": "/MCR_Portfolio_V3/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/MCR_Portfolio_V3/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5f05969b.chunk.css.map": "/MCR_Portfolio_V3/static/css/main.5f05969b.chunk.css.map",
+    "static/js/2.8fa335fd.chunk.js.LICENSE.txt": "/MCR_Portfolio_V3/static/js/2.8fa335fd.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/MCR_Portfolio_V3/static/media/resume.028e15ad.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2359d29b.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.8fa335fd.chunk.js",
+    "static/css/main.5f05969b.chunk.css",
+    "static/js/main.f6003589.chunk.js"
+  ]
+}
